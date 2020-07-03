@@ -9,7 +9,7 @@ namespace UrlEncoderDecoder.Controllers
 {
     public class UrlController : ApiController
     {
-        [HttpGet]
+        [AcceptVerbs("GET")]
         [ParameterConverter("id")]
         public int Get(int id=0)
         {

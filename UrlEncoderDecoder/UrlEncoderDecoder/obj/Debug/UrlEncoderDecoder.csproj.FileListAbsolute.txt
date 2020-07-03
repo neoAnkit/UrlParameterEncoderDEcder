@@ -75,7 +75,6 @@ D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\bin
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\bin\System.Web.WebPages.Razor.xml
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\bin\Antlr3.Runtime.pdb
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\obj\Debug\UrlEncoderDecoder.csprojAssemblyReference.cache
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\obj\Debug\UrlEncoderDecoder.csproj.CoreCompileInputs.cache
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\obj\Debug\UrlEncoderDecoder.csproj.CopyComplete
 D:\_Git\MY git\UrlParameterEncoderDEcder\UrlEncoderDecoder\UrlEncoderDecoder\obj\Debug\UrlEncoderDecoder.dll
